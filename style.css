@@ -1,0 +1,25 @@
+.jumbotron {
+    background-image: url("images/bacteria.jpg");
+    background-size: cover;
+  }
+.wj-gauge {
+margin: 2em auto;
+width: 200px;
+height: 200px;
+}
+.wj-gauge .wj-needle {
+fill: orangered;
+stroke: orangered;
+}
+.wj-gauge .wj-needle .wj-inner-needle-cap {
+fill: white;
+}
+
+label {
+min-width: 100px;
+text-align: right;
+margin-right: 12px;
+}
+.wj-combobox {
+width: 150px;
+}
